@@ -7,7 +7,7 @@
 </div>
   <a href="https://x-bot-md-qr.koyeb.app">
         <p align="center">
-   <img alt="ASWIN SPARKY" height="300" src="https://i.imgur.com/xi2j9dW.jpeg">
+   <img alt="RIJU<EDITX" height="300" src="https://i.imgur.com/xi2j9dW.jpeg">
               </p>
   </a>
 </p>
@@ -32,7 +32,7 @@
 
 1. Must Fork This Repo Before Deployment !
    <br> 
-<a href="https://github.com/rijubiswas2/RIJU_EDITX//fork"><img title="FORK REPO" src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/rijubiswas2/RIJU_EDITX/fork"><img title="FORK REPO" src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 
 
@@ -130,6 +130,6 @@
 
 * [`RIJU`](https://wa.me/917364934516?text=⎯꯭̽👀🐼RIJU)
 * [`VIPER`](https://github.com/rijubiswas2)
-* [`KICHU`](https://github.com/KichuExe)
+* [`KICHU`](https://github.com/KichExe)
  </details>
  
