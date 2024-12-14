@@ -1,20 +1,20 @@
 <p align="center"> 
-      <h1 align="center">X BOT MD MD V-3.2.0 (BETA)</h1>
+      <h1 align="center">RIJU_XMD V-3.2.0 (BETA)</h1>
       <h2 align="center">This bot is still under development so if you want to use it, please check this main repo every day and update your "FORKED REPO" because i am continuously debugging it and making major changes in it</h2>
      <div align="center">
            
-## _[Update My Repo](https://github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD/wiki/FORK-UPDATE)_
+## _[Update My Repo](https://github.com/rijubiswas2/RIJU_EDITX/wiki/FORK-UPDATE)_
 </div>
   <a href="https://x-bot-md-qr.koyeb.app">
         <p align="center">
-   <img alt="ASWIN SPARKY" height="300" src="https://i.imgur.com/Q2UNwXR.jpg">
+   <img alt="ASWIN SPARKY" height="300" src="https://i.imgur.com/xi2j9dW.jpeg">
               </p>
   </a>
 </p>
    
 <p align="center">
 
-  <a aria-label="Join our channel" href="https://whatsapp.com/channel/0029Va9ZOf36rsR1Ym7O2x00" target="_blank">
+  <a aria-label="Join our group" href="https://chat.whatsapp.com/ESyS6Vf6EvbFgairPsIDdL" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
@@ -32,7 +32,7 @@
 
 1. Must Fork This Repo Before Deployment !
    <br> 
-<a href="https://github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD/fork"><img title="FORK REPO" src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/rijubiswas2/RIJU_EDITX//fork"><img title="FORK REPO" src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 
 
@@ -42,7 +42,7 @@
    <br>
    
 **Server 1**  
-<a href='https://https-x-bot-md-qr-2.onrender.com' target="_blank">
+<a href='https://https-RIJU_EDITX-qr-2.onrender.com' target="_blank">
     <img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/>
 </a>
 
@@ -62,8 +62,8 @@
 <br>
 
 
-<a aria-label="Tutorial" href="https://youtu.be/OqYCvFNE4sU?si=YbPqnLBWeP8-2Yys" target="_blank">
-    <img alt="youtube" src="https://img.shields.io/badge/Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+<a aria-label="If any help" href="https://wa.me/917364934516?text=⎯꯭̽👀🐼RIJU" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 
 
 #### DEPLOY TO HEROKU 
@@ -86,7 +86,7 @@
 
 4. Now Deploy
     <br>
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD&branch=main&name=xbotmd&builder=dockerfile&env[SESSION_ID]=%20&env[WORK_TYPE]=private&env[HANDLERS]=.&env[BOT_INFO]=X-BOT-MD;ASWIN%20SPARKY;https://i.imgur.com/QH7T7u9.jpeg&env[SUDO]=917012984396&env[STICKER_DATA]=SPARKY&env[DATABASE_URL]' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb'/></a>
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD&branch=main&name=xbotmd&builder=dockerfile&env[SESSION_ID]=%20&env[WORK_TYPE]=private&env[HANDLERS]=.&env[BOT_INFO]=X-BOT-MD;ASWIN%20SPARKY;https://i.imgur.com/xi2j9dW.jpeg&env[SUDO]=917012984396&env[STICKER_DATA]=SPARKY&env[DATABASE_URL]' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb'/></a>
 
 #### DEPLOY ON RAILWAY
 
@@ -116,7 +116,7 @@
    <br>
 2. Now Deploy
     <br>
-<a href='https://replit.com/github/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-IMPORT-black?style=for-the-badge&logo=replit'/></a>
+<a href='https://replit.com/github/rijubiswas2/RIJU_EDITX' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-IMPORT-black?style=for-the-badge&logo=replit'/></a>
 
 * Now fork it and enjoy 🗿🙌🏻
 <br>
@@ -128,8 +128,8 @@
 
 <br>
 
-* [`EX-KRIZ`](https://github.com/EX-KRIZ)
-* [`VIPER`](https://github.com/Viper-X0)
+* [`RIJU`](https://wa.me/917364934516?text=⎯꯭̽👀🐼RIJU)
+* [`VIPER`](https://github.com/rijubiswas2)
 * [`KICHU`](https://github.com/KichuExe)
  </details>
  
